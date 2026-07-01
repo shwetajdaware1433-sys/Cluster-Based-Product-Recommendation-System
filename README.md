@@ -1,4 +1,3 @@
-# Cluster-Based-Product-Recommendation-System
 # 🛍️ Cluster-Based Product Recommendation System
 
 ## 📌 Project Overview
